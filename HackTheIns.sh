@@ -417,7 +417,6 @@ username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o 
 
 selena="460563723"
 neymar="26669533"
-ariana="7719696"
 beyonce="247944034"
 cristiano="173560420"
 kimkardashian="18428658"
@@ -428,6 +427,7 @@ jelopez="305701719"
 messi="427553890"
 
 dualipa="12331195"
+arianagrande="7719696"
 priyankachopra="178537482"
 deepikapadukone="572299277"
 aliaabhatt="259925762"
@@ -446,7 +446,7 @@ instagram="25025320"
 
 
 if [[ ! -e celeb_id ]]; then
-printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $dualipa $priyankachopra $deepikapadukone $aliaabhatt $shraddhakapoor $mileycyrus $shawnmendes $katyperry $charlieputh $lelepons $camila_cabello $madonna $leonardodicaprio $ladygaga $taylorswift $instagram $neymar $selena $ariana $beyonce $cristiano $kimkardashian $kendall $therock $kylie $jelopez $messi > celeb_id
+printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $dualipa $arianagrande $priyankachopra $deepikapadukone $aliaabhatt $shraddhakapoor $mileycyrus $shawnmendes $katyperry $charlieputh $lelepons $camila_cabello $madonna $leonardodicaprio $ladygaga $taylorswift $instagram $neymar $selena $beyonce $cristiano $kimkardashian $kendall $therock $kylie $jelopez $messi > celeb_id
 fi
 
 while [[ true ]]; do
