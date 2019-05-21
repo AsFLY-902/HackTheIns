@@ -7,3 +7,10 @@
  <h4>Increase Followers</h4>
 <h4>Download: Stories, Saved Content, Following/followers list, Profile Info</h4>
 <h4>Unfollow all your following</h4>
+ 
+<h4>Usage:</h4>
+<code>
+git clone 
+cd HackTheIns
+bash HackTheIns.sh
+ </code>
