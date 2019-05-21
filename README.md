@@ -17,6 +17,5 @@ cd HackTheIns
 <code>
 bash HackTheIns.sh
 </code></pre>
-# Contact
- https://asflytv.tk/
+# Contact https://asflytv.tk/
 
