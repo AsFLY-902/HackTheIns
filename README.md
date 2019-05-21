@@ -9,13 +9,12 @@
 <h4>Unfollow all your following</h4>
  
 <h3>Usage:</h3>
-<code>
-git clone https://github.com/AsFLY-902/HackTheIns
+<pre><code> git clone https://github.com/AsFLY-902/HackTheIns
  </code>
  <code>
 cd HackTheIns
  </code>
 <code>
 bash HackTheIns.sh
-</code>
+</code></pre>
 
