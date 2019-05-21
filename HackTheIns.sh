@@ -1,6 +1,6 @@
 #!/bin/bash
 # HackTheIns v1.0
-# Coded by: @AsFLY902 (GitHub)
+# Coded by: @AsFLY-902 (GitHub) and @AsFLY (Telegram)
 # If you use any part from this code, give me the credits.
 
 
@@ -30,7 +30,7 @@ echo "
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
 "
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m AsFLY902\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m https://github.com/AsFLY-902/HackTheIns/\e[0m\n"
 }
 
 
