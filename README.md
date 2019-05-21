@@ -1,6 +1,6 @@
 # HackTheIns V1.0
 
-<h2>Author: AsFLY-902</h2>
+<h2>Author: AsFLY-902 (GitHub)</h2>
 <h2>IG: www.instagram.com/asfly902<h2>
 <h3>Features:</h3>
  <h4>Unfollow Tracker</h4>
