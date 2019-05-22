@@ -35,6 +35,12 @@ printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m https://gith
 
 
 
+about()
+{
+printf " \e[\e[0m\e[1;77m\e[0m\e\e[0m\e[1;93m This Script is Designed and Developed by Ashok aka AsFLY.\e[0m\n"
+printf " \e[\e[0m\e[1;77m\e[0m\e\e[0m\e[1;93m Note:Use it at your own risk I am not responsible for anything.\e[0m\n"
+printf "\e[\e[0m\e[1;77m\e[0m\e\e[0m\e[1;93m This is only for Educational Purpose. \n\t\t\tEnjoy the Day:)\e[0m\n"
+}
 login_user() {
 
 
@@ -606,6 +612,7 @@ printf " \e[1;31m[\e[0m\e[1;77m05\e[0m\e[1;31m]\e[0m\e[1;93m Download Following 
 printf " \e[1;31m[\e[0m\e[1;77m06\e[0m\e[1;31m]\e[0m\e[1;93m Download Followers List\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;31m]\e[0m\e[1;93m Download Profile Info\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;31m]\e[0m\e[1;93m Activate Unfollower\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m09\e[0m\e[1;31m]\e[0m\e[1;93m About the Developer\e[0m\n"
 printf "\n"
 
 
@@ -654,7 +661,8 @@ elif [[ $option -eq 8 ]]; then
 
 login_user
 unfollower
-
+elif [[ $option -eq 9 ]]; then
+about
 else
 
 printf "\e[1;93m[!] Invalid Option!\e[0m\n"
